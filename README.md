@@ -1,4 +1,4 @@
-Learning# React Dynamic Components Lab
+# React Dynamic Components Lab
 
 ## Learning Goals
 
